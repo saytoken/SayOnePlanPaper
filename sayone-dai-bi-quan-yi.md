@@ -1,4 +1,4 @@
 # SAYONE代币权益
 
-![](.gitbook/assets/sayone-dai-bi-quan-yi.png)
+![](.gitbook/assets/sayone-dai-bi-quan-yi%20%281%29.png)
 

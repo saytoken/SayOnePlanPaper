@@ -12,8 +12,10 @@
 * [SAYONE 1年运营计划](sayone-yun-ying-ji-hua.md)
 * [SAYONE 游戏集群](sayone-you-xi-ji-qun/README.md)
   * [SAYONE DICE游戏规则](sayone-you-xi-ji-qun/dice-you-xi-gui-ze.md)
-* [SAYONE代币分配](sayone-dai-bi-fen-pei.md)
-* [SAYONE代币权益](sayone-dai-bi-quan-yi.md)
+* [SAYONE经济模型](sayone-jing-ji-mo-xing/README.md)
+  * [POP-BOB & DOP经济模型](sayone-jing-ji-mo-xing/popbob-dop-jing-ji-mo-xing.md)
+  * [SAYONE代币分配](sayone-jing-ji-mo-xing/sayone-dai-bi-fen-pei.md)
+  * [SAYONE代币权益](sayone-jing-ji-mo-xing/sayone-dai-bi-quan-yi.md)
 * [SAYONE团队优势](tuan-dui-you-shi.md)
 * [联系我们](lian-xi-wo-men.md)
 
